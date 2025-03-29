@@ -21,3 +21,26 @@
 # Required to finish:
 
 - 5Ohm 100W Regen ellenállás
+- Feedback LED-ek
+- RS485 HAT (UART - AX HAT lehet oké ide!)
+- AN input HAT (I2C)
+- RTC HAT
+
+# To Do
+
+- 2h Project implementation and documentation read
+- 3h Servo driver init function implementation
+- 2h Servo driver status read function implementation (With automatic warning in case of error!)
+- 8h Servo driver velocity control function implementation
+- 2h Demo environment implementation to test servo driver (CMD)
+- 1h Joystick Analog input implementation (debug analog input via I2C)
+- 3h LED feedback control process (timed flashing based on the status)
+    - 2db Overload Left - Right
+    - 2db Overtemperature Left - Right
+    - 2db Error Left - Right
+    - 2db Error driver
+    - 2db Overtemperature driver
+    - 1db Servo Enable
+    - 1db Communication error
+    - 1db Heartbeat
+

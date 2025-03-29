@@ -12,9 +12,11 @@
 - ZLTech ZLLG16ASM800 v2.0
 - Raspberry Pi Zero:
   - ModbusRTU HAT
-  - ADC for Joystick
+  - ADC input HAT
   - Feedback LED-s
+  - RTC
   - Debug UART
+- Power Supply for Raspberry Pi
 - MicroUSB to Ethernet adapter for debug and config
 - Joystick
 - Emergency STOP input handling
