@@ -7,8 +7,9 @@
 
 | Date          | Start time    | End time  | Note                                                      |
 | ---           | ---           | ---       | ---                                                       |
-| 2025.03.29    | 11:00         | 13:20     | Initialize and plan project, RegAddresses recorded        | 
-
+| 2025.03.29    | 11:00         | 13:35     | Initialize and plan project, RegAddresses recorded        |
+| 2025.03.30    | 11:23         | 14:55     | Status requests implemented and tested                    |
+| 2025.03.30    | 17:00         | 19:04     | Default commands implemented, configuration tests         |
 
 - A két motor hajtható szinkronban? Mi van ha az egyik elakad, a másik menne???
     - Doksit át kell böngészni!
