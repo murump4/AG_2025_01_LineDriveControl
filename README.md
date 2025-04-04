@@ -9,4 +9,4 @@ ZLTECH ZLAC8030D driver control with Joystick [RPi Zero]
 3. [System configuration](/docs/system_config.md)
 4. [Virtual environment configuration](/docs/venv_config.md)
 4. [ModbusRTU protocol](/docs/modbusrtu_proto.md)
-5. [Sercice configuration](/docs/service_config.md)
+5. [Service configuration](/docs/service_config.md)
